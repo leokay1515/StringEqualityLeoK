@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\bin\Debug\StringEqualityLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\bin\Debug\StringEqualityLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\bin\Debug\StringEqualityLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\obj\Debug\StringEqualityLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\obj\Debug\StringEqualityLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\obj\Debug\StringEqualityLeoK.frmStringEqualityLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\obj\Debug\StringEqualityLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\obj\Debug\StringEqualityLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\StringEqualityLeoK\StringEqualityLeoK\obj\Debug\StringEqualityLeoK.pdb
